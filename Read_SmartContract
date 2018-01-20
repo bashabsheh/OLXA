@@ -1,0 +1,14 @@
+name    OLXA string
+totalSupply    260000000000 uint256
+decimals    2 uint8
+balanceOf   
+   <input> (address)
+   Query
+ uint256
+symbol    OLXA string
+allowance   
+   <input> (address)
+, 
+   <input> (address)
+   Query
+ uint256
